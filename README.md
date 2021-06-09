@@ -4,7 +4,7 @@ This repository is to show GiHub Actions workflow.
 
 Make any changes to the files in the master branch and commit them.
 
-This will trigger the workflow to start. If everything is executed successful, a message will be shown in the Telegram account, named, devopsupdates.
+This will trigger the workflow to start. With the YAML file created in the specific directory in the GitHub repo, we can automatically kick off a series of automation steps.If everything is executed successful, a message will be shown in the Telegram account, named, devopsupdates.
 
 After this, hope to look at creating action workflows by myself.
 
